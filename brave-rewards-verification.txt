@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: thezbenga.com
+Token: a7c66deb76b02d8af0cc9a6c5489af0f36e15887255b1e732801f4d5942a6783
